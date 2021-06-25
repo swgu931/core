@@ -1,0 +1,13 @@
+# For a real-world example, you can look at the ewm-cloud-robotics project:
+# https://github.com/SAP/ewm-cloud-robotics
+
+```
+API definition: mission-crd.yaml
+https://github.com/SAP/ewm-cloud-robotics/blob/master/helm/charts/dependency-charts/mission-crd/templates/mission-crd.yaml
+
+API client: robco_mission_api.py
+https://github.com/SAP/ewm-cloud-robotics/tree/master/python-modules
+
+API implementation: mission.py
+https://github.com/SAP/ewm-cloud-robotics/blob/master/python-modules/mircontroller/mircontroller/mission.py
+```
